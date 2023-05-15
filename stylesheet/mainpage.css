@@ -1,4 +1,11 @@
 
+/*****************************************************************************
+*  CSS stylesheet index.hmtl
+*
+*
+* Author: Dennis Grellmann
+*****************************************************************************/
+
 header img {
     float: left;
     width: 50%;
@@ -7,10 +14,12 @@ header img {
     object-fit: cover;
 }
 
+/*Article Body*/
 article {
     padding-right: 1.6rem;
 }
 
+/*list*/
 .BlurbList {
     font-size: 130%;
     font-family: 'TT Chocolates';

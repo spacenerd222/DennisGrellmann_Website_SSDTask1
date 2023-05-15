@@ -1,3 +1,10 @@
+/*****************************************************************************
+*  Main CSS stylesheet 
+*
+*
+* Author: Dennis Grellmann
+*****************************************************************************/
+
 /* Fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
@@ -33,6 +40,7 @@ nav ul {
     list-style: none;
 }
 
+/*Main Logo*/
 #Logo {
     max-width:85px;
     padding-left: 20px;
@@ -40,6 +48,7 @@ nav ul {
     height: auto;
 }
 
+/*Nav Text*/
 .NavRight {
     float:right;
 }
@@ -57,11 +66,14 @@ nav ul {
     background-color: #808080;
 }
 
+/*Links to pages*/
 #LinkZero, #LinkOne, #LinkTwo, #LinkThree, #LinkFour, #LinkFive, #LinkSix {
     position: relative;
     top: -90px;  
 }
 
+
+/*Universal*/
 h1 {
     font-family: 'DM Sans';
     padding-top: 1%;

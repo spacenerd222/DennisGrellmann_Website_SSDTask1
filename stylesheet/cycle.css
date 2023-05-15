@@ -1,3 +1,10 @@
+/*****************************************************************************
+*  CSS stylesheet for Cycle.hmtl
+*
+*
+* Author: Dennis Grellmann
+*****************************************************************************/
+
 header img {
     float: left;
     width: 50%;
@@ -10,6 +17,7 @@ header img {
     width: 30%;
 }
 
+/*Article Body*/
 article {
     padding-right: 1.6rem;
 }
@@ -31,6 +39,7 @@ article img {
     height: 80%;
 }
 
+/*List*/
 .CycleList {
     font-size: 130%;
     font-family: 'TT Chocolates';

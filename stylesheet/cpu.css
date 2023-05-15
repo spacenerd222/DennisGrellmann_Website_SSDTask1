@@ -1,3 +1,11 @@
+/*****************************************************************************
+*  CSS stylesheet for CPU.hmtl
+*
+*
+* Author: Dennis Grellmann
+*****************************************************************************/
+
+
 header img {
     float: left;
     width: 50%;
@@ -10,6 +18,7 @@ header img {
     width: 30%;
 }
 
+/*Article Body*/
 article {
     padding-right: 1.6rem;
 }
@@ -24,6 +33,7 @@ hr.Divider {
     border-top: 0.3rem solid #808080;
 }
 
+/*Bottom Image*/
 #CPUimage2 {
     float: left;
     width: 50%;
