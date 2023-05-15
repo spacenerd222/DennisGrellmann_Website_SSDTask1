@@ -1,0 +1,52 @@
+dennisGrellmannSSDTask1-Logbook
+
+Structure:
+Date
+Description of task done made since last entry
+task acheived
+descriptions of stumbling blocks or issues encoutered and how they were managed
+details of approaches for upcoming tasks
+reflective comments
+reference to reasources used
+overall bibliography
+
+23/4
+started creating the story board with canva to illustrate and create a viusal idea of what I want it to look like.
+Made good progress probably 1/3 of the way through.
+It has been pretty easy so far, the hardest parts were just figuring out what I wanted it to look like and the design.
+I'm going to try and limit myself from trying to perfect it as it's really just a storyboard and I need to focus on the actual creation of it
+It has been pretty good and I'm happy with how I'm going
+
+26/4
+Working on the story board, finalizing the structure of how everything is going to interact. 
+Almost finished just need to clean the folder up and name everything correctly.
+I tried mapping everything in photoshop but it was inefficient so I did a quick google search and found an online tool to map everything easier and quicker.
+I will start the html and work efficiently so I don't get overwhelmed.
+The pace is good and I'm happy with the amount of progress I'm doing everyday
+
+27/4
+Finished the storyboard completely. The maps and folder are all organised and done. I started with the Html and Css for the home/main page. I refered to my old 
+projects keeping the feedback I received. I got about 2/3 done of the home page.
+One of the blocks I encountered were the positioning and how to do it. Previously I had used several different methods together that didn`t yield the results I wanted 
+so I went back and studied how the positioning works and what I should be using. 
+Draw.io was very easy to use and saved me a lot of time and gave me satisfaction with how it turned out. 
+The pace is going great and I am confident it will turn out how I want it.
+
+11/5
+I started again working on the homepage. I got most of the CSS done. I impletemented a back up button and made it static so it follows you while you scroll down. 
+I struggled understanding how the positioning worked for certain parts and how they were affecting each other so I took a break and read some pages from the MDN documents 
+to better understand how it works. I also used W3school as a site to look how to implement what I wanted. I want to the 100% done the home page by Saturday. I will work more
+on it.
+
+14/5
+I finished the CSS for the homepage and started working on the CPU page. I finished both the html and css part of it. One issue that I found was the image wasn't a high enough resolution
+to look nice so I ended up replacing it for another image. I constantly referenced W3school and MDN to refresh myself on certain parts and understand better how I wanted to implement features.
+I plan to finish a page a day so I'll be able to submit on time.
+
+
+
+
+Html and Css reasource https://developer.mozilla.org/en-US/
+Website for mapping https://draw.io
+photos from https://unsplash.com/
+icon accreditation Laptop by ME from <a href="https://thenounproject.com/browse/icons/term/computer/" target="_blank" title="Computer Icons">Noun Project</a>

@@ -1,0 +1,19 @@
+
+header img {
+    width: 50rem;
+    height: 40rem;
+    padding: 1.6rem;
+    object-fit: cover;
+    float: right;
+    width: 50%;
+}
+
+article {
+    padding: 1.6rem;
+    width: 50%;
+    
+}
+
+#CPUTitle {
+    padding-left: 1.6rem;
+}

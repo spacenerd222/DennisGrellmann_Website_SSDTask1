@@ -1,0 +1,24 @@
+
+header img {
+    float: left;
+    width: 50%;
+    padding: 1.6rem;
+    height: 40rem;
+    object-fit: cover;
+}
+
+article {
+    padding-right: 1.6rem;
+}
+
+.BlurbList {
+    font-size: 130%;
+    font-family: 'TT Chocolates';
+    position: relative;
+    left: 1.6rem;
+}
+
+#ListTitle {
+    padding-left: 1.6rem;
+}
+
