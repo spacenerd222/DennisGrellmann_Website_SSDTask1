@@ -43,10 +43,17 @@ I finished the CSS for the homepage and started working on the CPU page. I finis
 to look nice so I ended up replacing it for another image. I constantly referenced W3school and MDN to refresh myself on certain parts and understand better how I wanted to implement features.
 I plan to finish a page a day so I'll be able to submit on time.
 
+15/5
+I did a marathon of writing html and css and have roughly finished. I went page by page and used similar layouts to reduce the time needed but still added different things to the individal pages.
+One stumbling block I found was the images upscaling and being pixely so I put them through a AI image upscaler as I still wanted to use the same image.
+There wasn't many stumbling blocks but finding the time to sit down and work on it for a few hours at a time was hard to do. I also ended up referring to MDN a lot of the time and that was very 
+useful for the project.
+Onwards I'll go through the project and make sure everything is there and all the marks are ticked.
 
 
 
-Html and Css reasource https://developer.mozilla.org/en-US/
+image upscaler https://www.upscale.media/upload
+Html and Css resource https://developer.mozilla.org/en-US/
 Website for mapping https://draw.io
 photos from https://unsplash.com/
 icon accreditation Laptop by ME from <a href="https://thenounproject.com/browse/icons/term/computer/" target="_blank" title="Computer Icons">Noun Project</a>
