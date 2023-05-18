@@ -25,8 +25,7 @@ I will start the html and work efficiently so I don't get overwhelmed.
 The pace is good and I'm happy with the amount of progress I'm doing everyday
 
 27/4
-Finished the storyboard completely. The maps and folder are all organised and done. I started with the Html and Css for the home/main page. I refered to my old 
-projects keeping the feedback I received. I got about 2/3 done of the home page.
+Finished the storyboard completely. The maps and folder are all organised and done. I started with the Html and Css for the home/main page. I refered to my old projects keeping the feedback I received and did a bit of research on website layouts. I got about 2/3 done of the home page.
 One of the blocks I encountered were the positioning and how to do it. Previously I had used several different methods together that didn`t yield the results I wanted 
 so I went back and studied how the positioning works and what I should be using. 
 Draw.io was very easy to use and saved me a lot of time and gave me satisfaction with how it turned out. 
@@ -56,6 +55,7 @@ was markdown for all the individual elements. I checked that all my bibliography
 
 
 Bibliography:
+-Website layout: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
 -Github https://github.com/spacenerd222/Website_SSDTask1
 -image upscaler https://www.upscale.media/upload
 -Html and Css resource https://developer.mozilla.org/en-US/
